@@ -1,1 +1,1 @@
-WBESITE: adminss.ct.ws
+WBESITE: https://adminss.ct.ws
